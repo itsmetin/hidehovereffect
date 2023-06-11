@@ -1,4 +1,4 @@
-# hidehovereffect
+# HideHoverEffect
 Minecraft Resourcepack for hiding the hover effect in any inventory
 
 With this mod you can hide the hover effect in any type of inventory.
